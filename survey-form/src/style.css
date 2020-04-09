@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+}
+
+#survey-form {
+  width: 900px;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+.row-tab {
+  display: block;
+  padding-top: 20px;
+}
+
+.label-meatpie {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+
+.input-meatpie {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+}
+
+.select-input {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+}
+
+.label-select {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+}
+
+.labels-radio {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+}
+
+.input-radio {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+}
+
+.checkbox-labels {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+  vertical-align: top;
+}
+
+.checkbox-input {
+  display: inline-block;
+  width: 48%;
+  text-align: left;
+}
+
+.button {
+  padding: 20px;
+}

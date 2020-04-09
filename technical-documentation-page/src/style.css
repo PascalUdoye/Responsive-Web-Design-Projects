@@ -1,0 +1,48 @@
+#main-doc {
+  height: 100%;
+  width: 100%;
+}
+
+#navbar {
+  position: fixed;
+  width: 300px;
+  height: 100%;
+}
+
+#technical-doc-writing {
+  width: 75%;
+  margin-left: 320px;
+}
+
+header {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+#navbar {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
+pre {
+  width: 100%;
+}
+
+.nav-link {
+  margin-buttom: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+  #Loren_Ipsum_Code {
+  display: none;
+  }
+}
